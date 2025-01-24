@@ -44,6 +44,4 @@ The Personal Finance Manager is a Java desktop application that allows users to 
 - **FinanceManager.java**: Main class handling the user interface, event handling, and interaction with `Transaction` class and file operations.
 - **Transaction.java**: Represents a single financial transaction with attributes for description, amount, type, and category.
 
-## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
